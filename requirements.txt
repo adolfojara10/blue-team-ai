@@ -1,0 +1,9 @@
+numpy
+joblib
+asyncio
+ollama
+concurrent.futures
+logging
+pathlib
+datetime
+json
